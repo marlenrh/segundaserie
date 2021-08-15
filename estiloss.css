@@ -1,0 +1,98 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+
+  background: url("21967.jpg");
+  background-size: cover;
+  font-family: sans-serif;
+  height: 100vh;
+}
+table {
+	display: table; 
+   border-collapse: separate;
+   border-spacing: 5px;
+   background: #000 bottom left repeat-x;
+   color: aliceblue;
+   border: double; 
+   opacity: 0.8; 
+	
+}
+h1{
+	
+    top: 20%; 
+    right: 20%;
+	
+	padding: 1% 17% 0% 0%;
+    transform: translate(10%,-50%);
+    text-transform: uppercase;
+    font-family: verdana;
+    font-size: 60px;
+    font-weight: 600;
+    color: #f5f5f5;
+    text-shadow: 1px 1px 1px #919191,
+        1px 2px 1px #919191,
+        1px 3px 1px #919191,
+        1px 4px 1px #919191,
+        1px 5px 1px #919191,
+        1px 6px 1px #919191,
+        1px 7px 1px #919191,
+        1px 8px 1px #919191,
+        1px 9px 1px #919191,
+        1px 10px 1px #919191,
+    1px 18px 6px rgba(16,16,16,0.4),
+    1px 22px 10px rgba(16,16,16,0.2),
+    1px 25px 35px rgba(16,16,16,0.2),
+    1px 30px 60px rgba(16,16,16,0.4);
+}
+	
+
+p{
+	font-family: allan,"Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial; 
+	color: aliceblue; 
+	opacity:inherit; 
+	font-size: 27px;
+	font-style: italic;
+	font-weight:400;
+	color:aqua;
+	
+}
+th{
+	font-style: italic;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-size: 28px;
+	color: aquamarine; 
+}
+.nombres{
+	font-family: "luckiest-guy"; 
+	font-style: italic; 
+	font-size: 28px;
+	color:burlywood;
+	
+}
+.descripcion{
+	 
+	 padding: 0% 4% 2% 3%; 
+	 font: condensed 120% sans-serif;
+	 font-size: 22px;
+	
+}
+.titulo{
+	font-style: italic;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-size: 30px;
+	color:aqua ; 
+	
+}
+.precio{
+	font-size: 25px;
+	padding: 0% 0% 4% 6px;
+}
+    
+	 
+	
+	
+	
+  
+
+	

@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+body {
+  background-size: cover;
+  font-family: sans-serif; 
+  background-color: burlywood; 
+	
+	
+}
+h1,h2{ 
+font-family: "sans-serif"; 
+	font-style: oblique; 
+	color:antiquewhite; 
+	margin: 0px;
+	padding: 3px 4px 8px 8px;
+}
+p{
+	font-family: "advent-pro"; 
+	font-size: 20px;
+	padding: 1% 2% 2% 2%;
+	
+}
+li{
+	font-family: "advent-pro"; 
+   color: aliceblue;
+   font-size: 22px;
+}
+tabla{
+	 border-collapse: separate;
+   border-spacing: 5px;
+   background: #000 bottom left repeat-x;
+   color: aliceblue;
+   border: double; 
+	padding: 23% 20% 20% 20%; 
+	
+}
+
+
